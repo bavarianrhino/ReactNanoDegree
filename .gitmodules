@@ -1,3 +1,6 @@
 [submodule "2_React_Fundamentals/contacts-app-v2/reactnd-contacts-app"]
 	path = 2_React_Fundamentals/contacts-app-v2/reactnd-contacts-app
 	url = https://github.com/bavarianrhino/reactnd-contacts-app
+[submodule "2_React_Fundamentals/contacts-app-v2/reactnd-contacts-server"]
+	path = 2_React_Fundamentals/contacts-app-v2/reactnd-contacts-server
+	url = https://github.com/bavarianrhino/reactnd-contacts-server
